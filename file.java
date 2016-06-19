@@ -1,3 +1,3 @@
-public static int methodName(int a, int b) {
+public static int newMethodName(int a, int b) {
     // Body
 }
